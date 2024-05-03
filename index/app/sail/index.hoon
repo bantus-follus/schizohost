@@ -17,14 +17,19 @@
   ;body
       ;img@"https://schizohost.nyc3.cdn.digitaloceanspaces.com/pixelady.jpg";
       ;h1: ~bantus-follus
-      ; This page is hosted on 
-      ;a/"https://urbit.org": Urbit
       ;br;
-      ;br;
-      ;a/"...": Blog (nothing here)
+      ;a/"words": Blog (nothing here)
       ;br;
       ;a/"https://soundcloud.com/retropronoic/sets/schizo-essentials": Music 
       ;br;
       ;a/"https://twitter.com/_bantus_follus": Twitter
+      ;br;
+      ;br;
+      ;br;
+      ;br;
+      ;br;
+      ;br;
+      ; Hosted on 
+      ;a/"https://urbit.org": Urbit
   ==
 ==
